@@ -1,0 +1,80 @@
+
+(rules PCB V-meter Magic eye.dsn
+  (snap_angle 
+    fortyfive_degree
+  )
+  (autoroute_settings
+    (fanout off)
+    (autoroute on)
+    (postroute off)
+    (vias on)
+    (via_costs 50)
+    (plane_via_costs 5)
+    (start_ripup_costs 100)
+    (start_pass_no 1)
+    (layer_rule F.Cu
+      (active off)
+      (preferred_direction horizontal)
+      (preferred_direction_trace_costs 1.0)
+      (against_preferred_direction_trace_costs 4.8)
+    )
+    (layer_rule B.Cu
+      (active on)
+      (preferred_direction vertical)
+      (preferred_direction_trace_costs 1.0)
+      (against_preferred_direction_trace_costs 2.9)
+    )
+  )
+  (rule
+    (width 600.0)
+    (clearance 200.0)
+    (clearance 300.0 (type smd_to_turn_gap))
+    (clearance 50.0 (type smd))
+    (clearance 200.0 (type "kicad_default"))
+  )
+  (padstack "Via[0-1]_1200:800_um"
+    (shape
+      (circle F.Cu 1200.0 0.0 0.0)
+    )
+    (shape
+      (circle B.Cu 1200.0 0.0 0.0)
+    )
+    (attach off)
+  )
+  (via 
+    "Via[0-1]_1200:800_um" "Via[0-1]_1200:800_um" default
+  )
+  (via 
+    "Via[0-1]_1200:800_um-kicad_default" "Via[0-1]_1200:800_um" "kicad_default"
+  )
+  (via_rule
+    default "Via[0-1]_1200:800_um"
+  )
+  (via_rule
+    "kicad_default" "Via[0-1]_1200:800_um-kicad_default"
+  )
+  (class default
+    (clearance_class default)
+    (via_rule default)
+    (rule
+      (width 600.0)
+    )
+    (circuit 
+      (use_layer F.Cu B.Cu)
+    )
+  )
+  (class "kicad_default"
+    Vfil2 +16V "Net-(U1-THR)" "Net-(C3-Pad1)" +250V "Net-(C6-Pad2)" "Net-(Q3-B)" "Net-(D2-K)"
+    "Net-(Q3-C)" VG "Net-(D1-A)" "unconnected-(J1-Pad3)" "Net-(J2-Pin_3)" Vfil1 "unconnected-(J2-Pin_6-Pad6)" "unconnected-(J2-Pin_1-Pad1)"
+    "Net-(Q1-G)" "Net-(Q2-B)" "Net-(Q2-C)" "Net-(Q3-E)" "Net-(U1-DIS)" "Net-(R4-Pad1)" "Net-(R5-Pad2)" "Net-(Q4-B)"
+    "Net-(MK1-+)" "Net-(Q4-C)" "Net-(C11-Pad1)"
+    (clearance_class "kicad_default")
+    (via_rule "kicad_default")
+    (rule
+      (width 600.0)
+    )
+    (circuit 
+      (use_layer F.Cu B.Cu)
+    )
+  )
+)
