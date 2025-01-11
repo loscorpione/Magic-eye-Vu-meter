@@ -5590,6 +5590,15 @@
 				(hide yes)
 			)
 		)
+		(property "Sim.Type" ""
+			(at 217.17 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "5"
 			(uuid "ecec4748-a1af-47cd-a2e1-7aaf7134ecc0")
 		)
@@ -5805,6 +5814,15 @@
 		)
 		(property "Description" "indicator tube \"magic eye\""
 			(at 247.142 129.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Type" ""
+			(at 262.89 137.16 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6093,6 +6111,15 @@
 				(hide yes)
 			)
 		)
+		(property "Sim.Type" ""
+			(at 93.98 171.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "3"
 			(uuid "973949fc-a1db-4d27-9e01-8e0ed1454308")
 		)
@@ -6230,6 +6257,15 @@
 				(hide yes)
 			)
 		)
+		(property "Sim.Type" ""
+			(at 138.43 121.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "a4f8ee19-5348-4f99-837a-8974e30f8bfa")
 		)
@@ -6292,6 +6328,15 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 186.69 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Type" ""
 			(at 186.69 50.8 0)
 			(effects
 				(font
@@ -6428,6 +6473,15 @@
 			)
 		)
 		(property "Description" "Precision Timers, 555 compatible,  PDIP-8"
+			(at 64.77 151.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Type" ""
 			(at 64.77 151.13 0)
 			(effects
 				(font
@@ -6589,6 +6643,15 @@
 				(hide yes)
 			)
 		)
+		(property "Sim.Type" ""
+			(at 269.24 60.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "bc7fdfed-b89a-4945-8dcc-a2f21de2f699")
 		)
@@ -6647,6 +6710,15 @@
 			)
 		)
 		(property "Description" "Polarized capacitor"
+			(at 149.86 144.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Type" ""
 			(at 149.86 144.78 0)
 			(effects
 				(font
@@ -6717,6 +6789,15 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x02, script generated"
+			(at 257.81 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Type" ""
 			(at 257.81 85.09 0)
 			(effects
 				(font
@@ -6878,6 +6959,15 @@
 				(hide yes)
 			)
 		)
+		(property "Sim.Type" ""
+			(at 49.53 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "8be26ae4-11fe-4531-a1ba-bbf21ba861c7")
 		)
@@ -6939,6 +7029,15 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 195.58 134.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Type" ""
 			(at 195.58 134.62 0)
 			(effects
 				(font
@@ -7009,6 +7108,15 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x08, script generated"
+			(at 241.3 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Type" ""
 			(at 241.3 137.16 0)
 			(effects
 				(font
@@ -7105,6 +7213,15 @@
 				(hide yes)
 			)
 		)
+		(property "Sim.Type" ""
+			(at 100.33 53.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "3"
 			(uuid "0ff6ec1a-2cd7-4588-9a26-075eda2141be")
 		)
@@ -7168,6 +7285,15 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 165.1 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Type" ""
 			(at 165.1 49.53 0)
 			(effects
 				(font
@@ -7246,6 +7372,15 @@
 				(hide yes)
 			)
 		)
+		(property "Sim.Type" ""
+			(at 129.54 146.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "e0496fd0-2799-4307-b325-84b529020be8")
 		)
@@ -7316,6 +7451,15 @@
 				(hide yes)
 			)
 		)
+		(property "Sim.Type" ""
+			(at 63.5 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "f7ab6333-5d18-4b4e-8291-72af85ab1081")
 		)
@@ -7378,6 +7522,15 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 83.82 123.19 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Type" ""
 			(at 83.82 123.19 0)
 			(effects
 				(font
@@ -7522,6 +7675,15 @@
 				(hide yes)
 			)
 		)
+		(property "Sim.Type" ""
+			(at 151.13 121.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "a993abb8-4e95-4609-ad33-c79f8d1fb34b")
 		)
@@ -7584,6 +7746,15 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 36.83 64.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Type" ""
 			(at 36.83 64.77 0)
 			(effects
 				(font
@@ -7670,6 +7841,15 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
+			(at 123.19 138.43 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Type" ""
 			(at 123.19 138.43 0)
 			(effects
 				(font
@@ -7813,6 +7993,15 @@
 				(hide yes)
 			)
 		)
+		(property "Sim.Type" ""
+			(at 139.7 144.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "cc98be70-a286-4202-807d-205021bfe594")
 		)
@@ -7873,6 +8062,15 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 91.44 53.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Type" ""
 			(at 91.44 53.34 0)
 			(effects
 				(font
@@ -7946,6 +8144,15 @@
 			)
 		)
 		(property "Description" "0.1A Ic, 45V Vce, Small Signal NPN Transistor, TO-92"
+			(at 161.29 57.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Type" ""
 			(at 161.29 57.15 0)
 			(effects
 				(font
@@ -8093,6 +8300,15 @@
 				(hide yes)
 			)
 		)
+		(property "Sim.Type" ""
+			(at 83.82 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "4ca14d1d-8303-4287-9a6a-a7feae5491c5")
 		)
@@ -8153,6 +8369,15 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 245.11 34.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Type" ""
 			(at 245.11 34.29 0)
 			(effects
 				(font
@@ -8223,6 +8448,15 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 83.82 138.43 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Type" ""
 			(at 83.82 138.43 0)
 			(effects
 				(font
@@ -8434,6 +8668,15 @@
 				(hide yes)
 			)
 		)
+		(property "Sim.Type" ""
+			(at 129.54 168.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "a0ee5b62-b346-4687-ab7a-cf75098624c6")
 		)
@@ -8572,6 +8815,15 @@
 				(hide yes)
 			)
 		)
+		(property "Sim.Type" ""
+			(at 102.87 146.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "3"
 			(uuid "d17057ab-e27f-425a-8030-bdd55bdf678b")
 		)
@@ -8637,6 +8889,15 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 49.53 139.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Type" ""
 			(at 49.53 139.7 0)
 			(effects
 				(font
@@ -8715,6 +8976,15 @@
 				(hide yes)
 			)
 		)
+		(property "Sim.Type" ""
+			(at 186.69 64.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "a8254859-d826-427b-bc7f-4ffad58ba0fe")
 		)
@@ -8777,6 +9047,15 @@
 			)
 		)
 		(property "Description" "Inductor"
+			(at 105.41 123.19 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Type" ""
 			(at 105.41 123.19 0)
 			(effects
 				(font
@@ -8854,6 +9133,15 @@
 				(hide yes)
 			)
 		)
+		(property "Sim.Type" ""
+			(at 257.81 60.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "08e09633-c5df-44f0-845f-072191c81142")
 		)
@@ -8911,6 +9199,15 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 57.15 44.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Type" ""
 			(at 57.15 44.45 0)
 			(effects
 				(font
@@ -9189,6 +9486,15 @@
 				(hide yes)
 			)
 		)
+		(property "Sim.Type" ""
+			(at 49.53 64.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "ea09a7d1-6123-488e-be5a-697ef05e6a5e")
 		)
@@ -9251,6 +9557,15 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 83.82 64.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Type" ""
 			(at 83.82 64.77 0)
 			(effects
 				(font
@@ -9592,6 +9907,15 @@
 				(hide yes)
 			)
 		)
+		(property "Sim.Type" ""
+			(at 118.11 146.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "eef3a5b0-398a-417a-b5ed-ab3b474abbc6")
 		)
@@ -9662,6 +9986,15 @@
 				(hide yes)
 			)
 		)
+		(property "Sim.Type" ""
+			(at 72.39 64.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "eafe9aeb-0b32-43dc-83a7-5a706a3870ff")
 		)
@@ -9723,6 +10056,15 @@
 			)
 		)
 		(property "Description" "Potentiometer"
+			(at 129.54 157.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Type" ""
 			(at 129.54 157.48 0)
 			(effects
 				(font
@@ -9867,6 +10209,15 @@
 				(hide yes)
 			)
 		)
+		(property "Sim.Type" ""
+			(at 148.59 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "5adabbee-942d-4c08-8f12-019962192141")
 		)
@@ -9936,6 +10287,15 @@
 				(hide yes)
 			)
 		)
+		(property "Sim.Type" ""
+			(at 246.38 60.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "4b3113e3-0471-40c0-847e-c2f393f9c598")
 		)
@@ -9996,6 +10356,15 @@
 			)
 		)
 		(property "Description" "DC Barrel Jack with an internal switch"
+			(at 261.62 36.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Type" ""
 			(at 261.62 36.83 0)
 			(effects
 				(font
@@ -10208,6 +10577,15 @@
 				(hide yes)
 			)
 		)
+		(property "Sim.Type" ""
+			(at 83.82 172.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "7c0190b7-9afb-4475-8b7a-1075417360f3")
 		)
@@ -10269,6 +10647,15 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 118.11 168.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Type" ""
 			(at 118.11 168.91 0)
 			(effects
 				(font
@@ -10678,6 +11065,15 @@
 				(hide yes)
 			)
 		)
+		(property "Sim.Type" ""
+			(at 158.75 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "ea2bae73-c9de-4b64-a01f-3ccf0259fe91")
 		)
@@ -10817,6 +11213,15 @@
 				(hide yes)
 			)
 		)
+		(property "Sim.Type" ""
+			(at 66.04 53.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "36aa36ff-f0bb-401d-aebf-c399b05d734c")
 		)
@@ -10880,6 +11285,15 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 177.8 57.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Type" ""
 			(at 177.8 57.15 0)
 			(effects
 				(font
@@ -11108,6 +11522,15 @@
 				(hide yes)
 			)
 		)
+		(property "Sim.Type" ""
+			(at 36.83 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "800e90a9-711e-4476-aae8-c05daac69f10")
 		)
@@ -11244,6 +11667,15 @@
 				(hide yes)
 			)
 		)
+		(property "Sim.Type" ""
+			(at 63.5 64.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "fdeeed2d-2bc4-4b3b-88f5-aae8dda8e305")
 		)
@@ -11305,6 +11737,15 @@
 			)
 		)
 		(property "Description" "Mounting Hole with connection"
+			(at 234.95 60.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Type" ""
 			(at 234.95 60.96 0)
 			(effects
 				(font
