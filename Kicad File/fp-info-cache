@@ -1,4 +1,4 @@
-23843092722088407
+23849895992247526
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -64964,7 +64964,7 @@ MODULE_ESP32-C3_SUPERMINI
 
 
 0
-16
+32
 16
 Module_Added
 MODULE_ESP32-DEVKITC-32D
@@ -64973,6 +64973,13 @@ MODULE_ESP32-DEVKITC-32D
 0
 38
 38
+Module_Added
+TP4056-18650
+
+
+0
+6
+6
 Motors
 Vybronics_VZ30C1T8219732L
 Vibration motor, 2.3-3.2V, 14000rpm, 0.7G, https://www.vybronics.com/wp-content/uploads/datasheet-files/Vybronics-VZ30C1T8219732L-datasheet.pdf
@@ -90663,6 +90670,27 @@ Logo WEEE
 0
 0
 0
+TFT Display
+DISPLAY_TFT_ILI9341_2.4
+
+
+0
+18
+18
+TFT Display
+DISPLAY_TFT_ILI9341_2.8
+
+
+0
+18
+18
+TFT Display
+SSD1306-0.91-OLED-4pin-128x32
+
+
+0
+4
+4
 TerminalBlock
 TerminalBlock_Altech_AK300-2_P5.00mm
 Altech AK300 terminal block, pitch 5.0mm, 45 degree angled, see http://www.mouser.com/ds/2/16/PCBMETRC-24178.pdf
