@@ -4,6 +4,7 @@
 "C3","100pF","Capacitor_THT:C_Disc_D7.5mm_W4.4mm_P5.00mm","1"
 "C4,C5,C6,C8,C9,C10,C11,C12","100nF","Capacitor_THT:C_Rect_L7.0mm_W2.5mm_P5.00mm","8"
 "C7","10uF 450v","Capacitor_THT:CP_Radial_D10.0mm_P5.00mm","1"
+"C13","33nF","Capacitor_THT:C_Rect_L7.0mm_W2.5mm_P5.00mm","1"
 "D1","RGP10M","Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal","1"
 "D2,D3","1N4148","Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal","2"
 "J1","15V","Connector_BarrelJack:BarrelJack_Horizontal","1"
